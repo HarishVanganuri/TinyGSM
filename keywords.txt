@@ -1,5 +1,5 @@
 #######################################
-# Data types (KEYWORD1)
+# Data types (KEYWORD1) by Harish
 #######################################
 TinyGsm	KEYWORD1
 TinyGsmClient	KEYWORD1
